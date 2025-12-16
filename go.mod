@@ -1,3 +1,3 @@
-module github.com/amovil/conexion-gerencia-go
+module github.com/david0ql/conexion-gerencia-go
 
 go 1.21
